@@ -1,0 +1,5 @@
+pliers,5,2024-04-18,abhi
+sissors,10,2024-04-18,shyam
+sausage,10,2024-04-18,abhi
+noodle,50,2024-04-18,ramm
+axe,1,2024-04-18,abhi
